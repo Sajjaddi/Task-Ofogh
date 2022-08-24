@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "email": "testa@test.com",
+      "password": "$2a$10$BrvM2krQJe.mmT1LY7URSewHU6uqtRARMuEbscvy7QRKP0YwSQYF2",
+      "id": 1
+    },
+    {
+      "email": "tsesta@test.com",
+      "password": "$2a$10$/NJLeT5PK3nVdQtC/F2Yquoo86Q6fkhut7STyDKPSkGx359rb4rmK",
+      "id": 2
+    },
+    {
+      "email": "testadd@test.com",
+      "password": "$2a$10$M4Sw8rrKrGgs.npx5DDP4OxbRxQNGpKYEdWezPd/zh2jfs6ftA.Da",
+      "id": 3
+    }
+  ],
+  "estates": [
+    {
+      "id": 1,
+      "tel": "09194484545",
+      "address": "shareziba",
+      "description": "Nice",
+      "coordinates": {
+        "lat": 35.747,
+        "lng": 51.292
+      }
+    },
+    {
+      "id": 3,
+      "tel": "0919448888",
+      "address": "Jordan",
+      "description": "house is big",
+      "coordinates": {
+        "lat": 35.772,
+        "lng": 51.419
+      }
+    },
+    {
+      "id": 4,
+      "tel": "0919443121",
+      "address": "shahran",
+      "description": "very clean!",
+      "coordinates": {
+        "lat": 35.765,
+        "lng": 51.304
+      }
+    },
+    {
+      "id": 33,
+      "tel": "443205258",
+      "address": "Azadi",
+      "description": "nice place",
+      "coordinates": {
+        "lat": 35.699,
+        "lng": 51.338
+      }
+    },
+    {
+      "id": 46,
+      "tel": "221568445",
+      "address": "Milad",
+      "description": "big...",
+      "coordinates": {
+        "lat": 35.746,
+        "lng": 51.381
+      }
+    }
+  ]
+}
